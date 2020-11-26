@@ -87,3 +87,11 @@ $(document).ready(function() {
     }
   });
 });
+
+// function getElements(response) {
+//   const i = Math.floor(Math.random() *25);
+//   $(".showRandom").html('<iframe src=${response.data[i].embed_url}"</iframe>');
+
+// }
+
+// iframe is a different type of image label
